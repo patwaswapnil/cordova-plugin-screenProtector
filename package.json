@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-screenProtector",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-screenProtector",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Swapnil Patwa",
+  "license": "MIT"
+}
